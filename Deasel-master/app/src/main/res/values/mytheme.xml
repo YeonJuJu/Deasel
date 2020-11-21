@@ -1,0 +1,8 @@
+<resources>
+    <style name="MyTheme" parent="@style/Theme.AppCompat">
+        <item name="colorPrimary">#FFDDA0DD</item>
+        <item name="titleTextColor">#723</item>
+        <item name="actionMenuTextColor">#633</item>
+        <item name="android:textColorPrimary">#633</item>
+    </style>
+</resources>
